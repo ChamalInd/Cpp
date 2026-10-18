@@ -1,2 +1,8 @@
 .DS_Store
 a.out
+demo
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+_deps/
