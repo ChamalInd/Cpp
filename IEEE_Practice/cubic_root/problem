@@ -1,0 +1,6 @@
+Problem Description:
+
+Find the value of the Cube Root of the input n without
+using any library given that the answer is integer.
+
+Examples: 1728 -> 12, 135'796'744 -> 514
